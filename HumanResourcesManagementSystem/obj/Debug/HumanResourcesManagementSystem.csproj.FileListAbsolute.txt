@@ -1,0 +1,146 @@
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\HumanResourcesManagementSystem.exe.config
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\HumanResourcesManagementSystem.exe
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\HumanResourcesManagementSystem.pdb
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.Properties.Resources.resources
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.csproj.GenerateResource.cache
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.exe
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.pdb
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.LoginForm.resources
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.MainForm.resources
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.Dashboard.resources
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.AddEmployee.resources
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.Salary.resources
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.RegisterForm.resources
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.Attendance.resources
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\MySql.Data.dll
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\ZstdSharp.dll
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\MySql.Data.xml
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Angelo\Desktop\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.csproj.CopyComplete
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\HumanResourcesManagementSystem.exe.config
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\HumanResourcesManagementSystem.exe
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\HumanResourcesManagementSystem.pdb
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\Google.Protobuf.dll
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Compression.LZ4.dll
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Hash.xxHash.dll
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\MySql.Data.dll
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Buffers.dll
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.IO.Pipelines.dll
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Memory.dll
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\ZstdSharp.dll
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\Google.Protobuf.pdb
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\Google.Protobuf.xml
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Compression.LZ4.xml
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Hash.xxHash.xml
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\MySql.Data.xml
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Buffers.xml
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.IO.Pipelines.xml
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Memory.xml
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.csproj.AssemblyReference.cache
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.AddEmployee.resources
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.Attendance.resources
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.Dashboard.resources
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.LoginForm.resources
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.MainForm.resources
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.Properties.Resources.resources
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.RegisterForm.resources
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.Salary.resources
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.csproj.GenerateResource.cache
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.csproj.CoreCompileInputs.cache
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.csproj.CopyComplete
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.exe
+D:\Maria Erica Balagon\KENNETH\HumanResourcesManagementSystem (3)\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.pdb
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\HumanResourcesManagementSystem.exe.config
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\HumanResourcesManagementSystem.exe
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\HumanResourcesManagementSystem.pdb
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\BouncyCastle.Cryptography.dll
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\Google.Protobuf.dll
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Compression.LZ4.dll
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Hash.xxHash.dll
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\MySql.Data.dll
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Buffers.dll
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.IO.Pipelines.dll
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Memory.dll
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\ZstdSharp.dll
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\BouncyCastle.Cryptography.xml
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\Google.Protobuf.pdb
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\Google.Protobuf.xml
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Compression.LZ4.xml
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\K4os.Hash.xxHash.xml
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\MySql.Data.xml
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Buffers.xml
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.IO.Pipelines.xml
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Memory.xml
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.csproj.AssemblyReference.cache
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.csproj.SuggestedBindingRedirects.cache
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.AddEmployee.resources
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.Attendance.resources
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.Dashboard.resources
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.LoginForm.resources
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.MainForm.resources
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.Properties.Resources.resources
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.RegisterForm.resources
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.Salary.resources
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.csproj.GenerateResource.cache
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.csproj.CoreCompileInputs.cache
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.csproj.CopyComplete
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.exe
+F:\HumanResourcesManagementSystem\HumanResourcesManagementSystem\obj\Debug\HumanResourcesManagementSystem.pdb
